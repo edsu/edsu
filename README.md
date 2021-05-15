@@ -9,3 +9,4 @@ If you want to get in touch please email me at [ehs@pobox.com]. You can also
 find me on fediverse at [\@edsu@social.coop].
 
 [\@edsu@social.coop]: https://social.coop/@edsu
+[ehs@pobox.com]: mailto:ehs@pobox.com
