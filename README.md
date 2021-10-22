@@ -1,13 +1,13 @@
 # Hi there 👋
 
-I'm a software developer, teacher and researcher working at the
-intersection of libraries, archives and the World Wide Web. I'm interested
-in how the Web functions as a sociotechnical system, especially with regard to
-memory practices such as curation, preservation and sustainability. I'm also
-a bit of a standards wonk. You can read about some of this on [my blog].
+I am a software developer and scientist with two decades of experience bridging
+the worlds of data management and the Web. I have worked in academia, startups,
+corporations and government. I work best as a member of agile, highly
+collaborative teams that focus on knowledge sharing and a commitment to
+sustainability.
 
 If you want to get in touch please email me at [ehs@pobox.com]. You can also
-find me on fediverse at [\@edsu@social.coop].
+find me on fediverse at [\@edsu@social.coop], and some occasional posts on [my blog].
 
 [\@edsu@social.coop]: https://social.coop/@edsu
 [ehs@pobox.com]: mailto:ehs@pobox.com
