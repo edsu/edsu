@@ -7,7 +7,7 @@ collaborative teams that focus on knowledge sharing and a commitment to
 sustainability.
 
 If you want to get in touch please email me at [ehs@pobox.com]. You can also
-find me on fediverse at [\@edsu@social.coop], and some occasional posts on [my blog].
+find me on fediverse at [\@edsu@social.coop], and some occasional posts on [my website].
 
 [\@edsu@social.coop]: https://social.coop/@edsu
 [ehs@pobox.com]: mailto:ehs@pobox.com
