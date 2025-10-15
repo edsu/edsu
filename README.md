@@ -6,9 +6,8 @@ corporations and government. I work best as a member of agile, highly
 collaborative teams that focus on knowledge sharing and a commitment to
 sustainability.
 
-If you want to get in touch please email me at [ehs@pobox.com]. You can also
-find me on fediverse at [\@edsu@social.coop], and some occasional posts on [my website].
+If you want to get in touch please email me at [ehs@pobox.com]. You can also find me on fediverse at [\@ink@merveilles.town], and some occasional posts on [my website].
 
-[\@edsu@social.coop]: https://social.coop/@edsu
+[\@ink@merveilles.town]: https://meeveilles.town/eink
 [ehs@pobox.com]: mailto:ehs@pobox.com
 [my website]: https://inkdroid.org
