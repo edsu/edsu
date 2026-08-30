@@ -8,6 +8,6 @@ sustainability.
 
 If you want to get in touch please email me at [ehs@pobox.com]. You can also find me on fediverse at [\@ed@digipres.club], and some occasional posts on [my website].
 
-[\@ink@merveilles.town]: https://merveilles.town/@ink
+[\@ed@digipres.club]: https://digipres.club/@ed
 [ehs@pobox.com]: mailto:ehs@pobox.com
 [my website]: https://inkdroid.org
